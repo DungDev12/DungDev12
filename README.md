@@ -5,6 +5,7 @@
 
 <!-- Language -->
 <h2 align="center" > Frontend</h2>
+<div align="center" >
 <span>
     <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" title="React" />
 </span>
@@ -59,8 +60,11 @@
 <span>
     <img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=F7DF1E" height="30" title="Javascript" />
 </span>
+</div>
 
 <h2 align="center" > Backend</h2>
+<div
+align="center">
 <span>
     <img src="https://img.shields.io/badge/NodeJS-282C34?logo=Node.js&logoColor=5FA04E" height="30" title="NodeJS" />
 </span>
@@ -87,4 +91,4 @@
 </span>
 <span>
     <img src="https://img.shields.io/badge/NGINX-282C34?logo=nginx&logoColor=009639" height="30" title="NGINX" />
-</span>
+</span></div>
