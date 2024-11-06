@@ -1,12 +1,37 @@
-<svg  fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml" >
+        <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                .container{
-                    font-size: 100px;
+                .container {
+                    font-size: 80px;
+                    font-weight: bold;
+                    color: #fff;  
+                    text-align: center;
+                    text-shadow: /* Tạo bóng bên ngoài chữ */
+                    0px 8px 30px #00ffc3,
+                    2px 2px 3px #00ffc3;
+                    animation: textAnimation 2s linear infinite;
+                }
+
+                @keyframes textAnimation {
+                    0%{
+                        text-shadow: /* Tạo bóng bên ngoài chữ */
+                        0px 4px 10px #00ffc3,
+                        2px 2px 3px #00ffc3;
+                    }
+                    50% {
+                        text-shadow: /* Tạo bóng bên ngoài chữ */
+                        0px 8px 30px #00ffc3,
+                        2px 2px 3px #00ffc3;
+                    }
+                    100% {
+                        text-shadow: /* Tạo bóng bên ngoài chữ */
+                        0px 4px 10px #00ffc3,
+                        2px 2px 3px #00ffc3;
+                    }
                 }
             </style>
-            <div class="container" >I'm DungDev12 from Viet Nam.</div>
+            <div class="container" id="text-container">I'm DungDev12 from Viet Nam.</div>
         </div>
     </foreignObject>
 </svg>
