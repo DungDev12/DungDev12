@@ -1,1 +1,3 @@
-Đây là một dự án mẫu. Bạn có thể xem trang web tại [đây](https://dungdev12.github.io/Portfolio1/).
+<a href="#" target="_blank">
+    <img src="svg/DungDev12.svg" width="1200" alt="DungDev12" />
+</a>
