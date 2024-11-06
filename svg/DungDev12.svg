@@ -3,9 +3,9 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container {
-                    font-size: 80px;
+                    font-size: 50px;
                     font-weight: bold;
-                    color: #fff;  
+                    color: #fff;
                     text-align: center;
                     text-shadow: /* Tạo bóng bên ngoài chữ */
                     0px 8px 30px #00ffc3,
@@ -31,7 +31,9 @@
                     }
                 }
             </style>
-            <div class="container" id="text-container">I'm DungDev12 from Viet Nam.</div>
+            <div class="background" >
+                <div class="container" id="text-container">I'm DungDev12 from Viet Nam.</div>
+            </div>
         </div>
     </foreignObject>
 </svg>
