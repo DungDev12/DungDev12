@@ -1,22 +1,25 @@
 <br clear="both">
 
-<h1 align="center">👋 Hi! My name's
- </h1>
-<h2 align="center"> <img height="40"src="./svg/name.svg" /></h2>
+<h3 align="center" style="font-size: 28px;">👋 Hi! My name's</h3>
+<h1 align="center"> <img height="64"src="./svg/name.svg" /></h1>
 
----
 
 <h3 align="center">👩‍💻  About Me</h3>
 
 > 👨‍💻 **Name** : ![Dũng](./svg/fullname.svg)
+> 
 > 🎂 **Born**: 2002
+> 
 > 🔄 **Career Shift**: From Engineering → Software Development
+> 
 > 🌱 **Currently Learning**: Web Development, Backend Fundamentals
+> 
 > 🚀 **Goal**: To become a skilled, impactful, and growth-oriented developer
 
 ---
 
-> 💡 I'm a self-motivated career switcher with a deep curiosity for coding. While I may not have years of experience, I make up for it with dedication, consistency, and a strong desire to improve every day. I believe in building meaningful solutions and growing through real-world projects, collaboration, and continuous learning.
+<p align="center" > 💡 I'm a self-motivated career switcher with a deep curiosity for coding. While I may not have years of experience, I make up for it with dedication, consistency, and a strong desire to improve every day. I believe in building meaningful solutions and growing through real-world projects, collaboration, and continuous learning.
+</p>
 
 ---
 
