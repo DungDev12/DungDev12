@@ -3,17 +3,16 @@
 <h3 align="center" style="font-size: 28px;">👋 Hi! My name's</h3>
 <h1 align="center"> <img height="64"src="./svg/name.svg" /></h1>
 
-
 <h3 align="center">👩‍💻  About Me</h3>
 
 > 👨‍💻 **Name** : ![Dũng](./svg/fullname.svg)
-> 
+>
 > 🎂 **Born**: 2002
-> 
+>
 > 🔄 **Career Shift**: From Engineering → Software Development
-> 
+>
 > 🌱 **Currently Learning**: Web Development, Backend Fundamentals
-> 
+>
 > 🚀 **Goal**: To become a skilled, impactful, and growth-oriented developer
 
 ---
@@ -35,7 +34,7 @@
   <a href="https://www.youtube.com/channel/UCD0S3cruFwCv4qRstHDlZ9A" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="mailto:dungdev12" target="_blank">
+  <a href="mailto:dungdev12@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/tuandungdieptu/" target="_blank">
