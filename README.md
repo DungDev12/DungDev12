@@ -34,7 +34,7 @@
   <a href="https://www.youtube.com/channel/UCD0S3cruFwCv4qRstHDlZ9A" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="mailto:dungdev12@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dungdev12@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/tuandungdieptu/" target="_blank">
